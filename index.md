@@ -1,6 +1,6 @@
 ---
 mathjax: true
-published: false
+published: true
 ---
 
 # Greetings
