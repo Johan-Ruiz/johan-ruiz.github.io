@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 2020-06-24.md
+title: 2020-06-24-Primer post.md
 published: true
 ---
 
-Hola. buenas tardes.
+# Hola. buenas tardes.
