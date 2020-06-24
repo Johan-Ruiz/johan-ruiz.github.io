@@ -3,10 +3,11 @@ mathjax: true
 published: true
 ---
 
-# Primer titulo
+# Greetings
 
 In this post I am going to introduce you to TDA and how to use it as an anomaly detection tool. 
 
+## Main Problem
 
 $k-$ Nearest Neighbor algorithms ($k-$NN) are widely used for anomaly detection regardless their high sensibility to changes in scale parameter $k$. This shortcoming, here named 
 Local-Global Duality, occurs independently to the way nearest neighbors are selected. Topological description of data sets by persistent homology leads to a new model for 
