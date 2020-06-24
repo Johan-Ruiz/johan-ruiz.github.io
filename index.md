@@ -3,10 +3,13 @@ mathjax: true
 published: true
 ---
 ---
+title: Anomaly Detection with Topolocal Data Analysis (TDA)
+layout: single
+author_profile: false
 mathjax: true
 ---
 
-# Anomaly Detection with Topolocal Data Analysis (TDA)
+# 
 
 In this post I am going to introduce you to TDA and how to use it as an anomaly detection tool. 
 
