@@ -1,7 +1,4 @@
 ---
-title: A tutorial on the free-energy framework for modelling perception and learning
-layout: single
-author_profile: false
 mathjax: true
 ---
 
