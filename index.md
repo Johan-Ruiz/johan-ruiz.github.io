@@ -18,6 +18,10 @@ removed. The proposed model and some $k-$NN algorithms  are compared in some exp
 
 ## Local-Global Duality
 
+$k-$NN algorithms look for a ``familiar`` behavior in nearby points 
+
+
+
 Los algoritmos tipo $k-$NN parten del principio de \textbf{similaridad por comportamiento próximo.} Para calcular la escala de anomalía en un punto $x\in X$, se escogen $k$ registros cercanos $N_k(x)=\{x_1, \dots x_k \}$ de acuerdo a alguna métrica $d$. Sobre este conjunto se caracterizará el comportamiento de $x$ de tal forma que la escala de anomalía representa qué tanto difiere $x$ del comportamiento de sus vecinos. Esta caracterización se hace mediante distintos métodos: comparación de distancias, conteo, comparación de costos, construcción de cadenas, entre otros.  \\ 
 
 Los métodos tipo $k-$NN se ejecutan en tres tiempos: selección de parámetros, medición de anomalía y decisión de anomalía. Por ejemplo, los modelos que solamente de basan en comparar distancias como $k$-NN y $k^{th}$-NN cumplen con este esquema. Una vez fijado $k \in \mathbb{N}$, cada punto $x \in X$ es asociado a su respectivo conjunto de vecinos $N_k(x)$. Luego, a partir de cada conjunto  se genera una marca de anomalía mediante una determinada medición: el algoritmo $k$-NN asigna a cada punto $x$ la cantidad \\ 
