@@ -3,9 +3,6 @@ mathjax: true
 published: true
 ---
 ---
-title: Anomaly Detection with Topolocal Data Analysis (TDA)
-layout: single
-author_profile: false
 mathjax: true
 ---
 
