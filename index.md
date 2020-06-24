@@ -1,3 +1,7 @@
+<script type="text/javascript" async
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
 # Anomaly Detection with Topolocal Data Analysis (TDA)
 
 In this post I am going to introduce you to TDA and how to use it as an anomaly detection tool. 
