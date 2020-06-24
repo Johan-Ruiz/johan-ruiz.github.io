@@ -1,6 +1,9 @@
-<script type="text/javascript" async
-  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
-</script>
+---
+title: A tutorial on the free-energy framework for modelling perception and learning
+layout: single
+author_profile: false
+mathjax: true
+---
 
 # Anomaly Detection with Topolocal Data Analysis (TDA)
 
