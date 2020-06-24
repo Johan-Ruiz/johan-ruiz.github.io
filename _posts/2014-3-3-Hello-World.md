@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: 2020-06-24.md
 published: true
 ---
 
