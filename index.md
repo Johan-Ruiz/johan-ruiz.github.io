@@ -9,7 +9,7 @@ author_profile: false
 mathjax: true
 ---
 
-# 
+# Primer titulo
 
 In this post I am going to introduce you to TDA and how to use it as an anomaly detection tool. 
 
