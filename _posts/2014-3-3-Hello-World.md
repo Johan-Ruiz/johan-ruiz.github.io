@@ -7,4 +7,6 @@ published: true
 mathjax: true 
 ---
 
-La derivada de la funcíon $f \in \mathbb{C[0,1]}$ se define como $\frac{a}{b}$
+#Primer Post
+
+La derivada de la función $f \in \mathbb{C[0,1]}$ se define como $\frac{a}{b}$.
