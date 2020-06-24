@@ -2,9 +2,6 @@
 mathjax: true
 published: true
 ---
----
-mathjax: true
----
 
 # Primer titulo
 
