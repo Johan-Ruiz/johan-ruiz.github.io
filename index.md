@@ -1,6 +1,6 @@
 ---
 mathjax: true
-published: true
+published: false
 ---
 
 # Greetings
@@ -18,7 +18,7 @@ removed. The proposed model and some $k-$NN algorithms  are compared in some exp
 
 ## Local-Global Duality
 
-$k-$NN algorithms look for a \textit{familiar} behavior in nearby points 
+$k-$NN algorithms look for a \textbf{familiar} behavior in nearby points 
 
 
 
