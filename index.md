@@ -16,10 +16,15 @@ anomaly detection model leans on the comparison between noteworthy topological c
 to the data set. The relevant changes are measured using the Bottleneck Distance to compare persistent diagrams associated to deformations in data when a single point is 
 removed. The proposed model and some $k-$NN algorithms  are compared in some experiments.
 
-## Local-Global Duality
+## $k-$NN Algorithms
 
-$k-$NN algorithms look for a ***familiar*** behavior in nearby points 
+Any $k-$NN algorithm can be characterize by the way it complete the next three processes: 
 
+- Definition of a neighborhood $N_{k}(x)$ for every point $x \in X$.
+- Computing of the average behavior inside this neighborhood by means of a certain function $f$ over $N_{k}(x)$.
+- Comparisson of the $f$ values.   
+
+For example 
 
 
 Los algoritmos tipo $k-$NN parten del principio de \textbf{similaridad por comportamiento próximo.} Para calcular la escala de anomalía en un punto $x\in X$, se escogen $k$ registros cercanos $N_k(x)=\{x_1, \dots x_k \}$ de acuerdo a alguna métrica $d$. Sobre este conjunto se caracterizará el comportamiento de $x$ de tal forma que la escala de anomalía representa qué tanto difiere $x$ del comportamiento de sus vecinos. Esta caracterización se hace mediante distintos métodos: comparación de distancias, conteo, comparación de costos, construcción de cadenas, entre otros.  \\ 
